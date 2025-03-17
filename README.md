@@ -42,4 +42,9 @@ You can get it from openrouter.ai. But keep in mind that the key works for free 
 1. ffmpeg.exe - Needed for converting, capturing, streaming and other operations with multimedia files.
 2. deepseek.py - Serves to contact deepseek for further work
 
+
+## For ffmpeg.exe:
+
+download link: https://www.ffmpeg.org/download.html
+
    
